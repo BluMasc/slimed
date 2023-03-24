@@ -42,7 +42,7 @@ authors="BluMasc" #optional
 
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-Mod that lets you tame and breed al kinds of usefull slimes.
+Mod that lets you tame and breed all kinds of usefull slimes.
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.slimed]] #optional

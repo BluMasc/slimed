@@ -1,0 +1,10 @@
+{
+  "item.slimed.slime_treat": "Slime Treat",
+  "item.slimed.peaceful_slime_spawn_egg": "Peaceful Slime Spawn Egg",
+  "item.slimed.lovely_slime_spawn_egg": "Lovely Slime Spawn Egg",
+
+  "block.slimed.slime_cage": "Slime Trap",
+  "block.slimed.slime_layer": "Slime Layer",
+
+  "itemGroup.slimed": "Slimed"
+}
